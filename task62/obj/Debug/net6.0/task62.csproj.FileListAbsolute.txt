@@ -1,0 +1,16 @@
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\bin\Debug\net6.0\task62.exe
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\bin\Debug\net6.0\task62.deps.json
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\bin\Debug\net6.0\task62.runtimeconfig.json
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\bin\Debug\net6.0\task62.dll
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\bin\Debug\net6.0\ref\task62.dll
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\bin\Debug\net6.0\task62.pdb
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\obj\Debug\net6.0\task62.GlobalUsings.g.cs
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\obj\Debug\net6.0\task62.csproj.AssemblyReference.cache
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\obj\Debug\net6.0\task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\obj\Debug\net6.0\task62.AssemblyInfoInputs.cache
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\obj\Debug\net6.0\task62.AssemblyInfo.cs
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\obj\Debug\net6.0\task62.csproj.CoreCompileInputs.cache
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\obj\Debug\net6.0\task62.dll
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\obj\Debug\net6.0\ref\task62.dll
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\obj\Debug\net6.0\task62.pdb
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task62\obj\Debug\net6.0\task62.genruntimeconfig.cache
