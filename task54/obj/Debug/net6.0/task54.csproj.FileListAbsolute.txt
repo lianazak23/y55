@@ -1,0 +1,16 @@
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\obj\Debug\net6.0\task54.GlobalUsings.g.cs
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\obj\Debug\net6.0\task54.AssemblyInfo.cs
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\bin\Debug\net6.0\task54.exe
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\bin\Debug\net6.0\task54.deps.json
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\bin\Debug\net6.0\task54.runtimeconfig.json
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\bin\Debug\net6.0\task54.dll
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\bin\Debug\net6.0\ref\task54.dll
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\bin\Debug\net6.0\task54.pdb
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\obj\Debug\net6.0\task54.dll
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\obj\Debug\net6.0\ref\task54.dll
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\obj\Debug\net6.0\task54.pdb
+C:\Users\liana\OneDrive\Рабочий стол\hhhh\task54\obj\Debug\net6.0\task54.genruntimeconfig.cache
